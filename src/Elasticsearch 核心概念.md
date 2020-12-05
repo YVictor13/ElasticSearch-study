@@ -128,4 +128,5 @@ Token Filter
 ElasticSearch。
 ```
 
-![img](https://raw.githubusercontent.com/YVictor13/ElasticSearch-study/master/image/20201205192010)
+![image-20201206000306385](https://raw.githubusercontent.com/YVictor13/ElasticSearch-study/master/image/image-20201206000306385.png)
+
