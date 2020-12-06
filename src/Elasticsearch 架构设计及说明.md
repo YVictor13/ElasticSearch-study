@@ -266,3 +266,6 @@ Elasticsearch中，索引写入磁盘是异步写入的。为了提升写的性�
 - 合并结束后，老的段会被删除，新段被**Refresh**到磁盘，同时写入一个包含新段且排除旧的和较小段的新提交点。
 - 由于段合并需要很大的计算量，因此，**Elasticsearch**在默认情况下会对段合并流程进行资源限制。
 
+[上一篇：Elasticsearch 核心概念](https://github.com/YVictor13/ElasticSearch-study/blob/master/src/Elasticsearch%20%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md)
+
+[下一篇：Elasticsearch ](#)

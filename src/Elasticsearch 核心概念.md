@@ -130,3 +130,6 @@ ElasticSearch。
 
 ![image-20201206000306385](https://raw.githubusercontent.com/YVictor13/ElasticSearch-study/master/image/image-20201206000306385.png)
 
+[上一篇：Elasticsearch 配置](https://github.com/YVictor13/ElasticSearch-study/blob/master/src/ElasticSearch%20%E9%85%8D%E7%BD%AE.md)
+
+[下一篇：Elasticsearch 架构设计及说明](https://github.com/YVictor13/ElasticSearch-study/blob/master/src/Elasticsearch%20%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%8F%8A%E8%AF%B4%E6%98%8E.md)

@@ -310,4 +310,6 @@ appender.rolling.layout.pattern = [%d{ISO8601}][%-5p][%-25c{1.}][%node_name]%mar
 
 
 
- 
+ [上一篇：Elasticsearch 安装指南](https://github.com/YVictor13/ElasticSearch-study/blob/master/src/ElasticSearch%20%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97.md)
+
+[下一篇：Elasticsearch 核心概念](https://github.com/YVictor13/ElasticSearch-study/blob/master/src/Elasticsearch%20%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md)

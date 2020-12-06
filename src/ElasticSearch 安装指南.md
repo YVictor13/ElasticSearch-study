@@ -127,3 +127,5 @@ Kibana 是一个 Elastic 公司推出的一个针对 es 的分析以及数据可
 - 浏览器 localhost:5601
 - Kibana 安装好之后，首次打开时，可以选择初始化 es 提供的测试数据，也可以不使用。
 ![在这里插入图片描述](https://raw.githubusercontent.com/YVictor13/ElasticSearch-study/master/image/20201122215509204.png)
+
+[下一篇：ElasticSearch 的配置](https://github.com/YVictor13/ElasticSearch-study/blob/master/src/ElasticSearch%20%E9%85%8D%E7%BD%AE.md)
