@@ -1,1 +1,0 @@
-# Elasticsearch 架构设计
