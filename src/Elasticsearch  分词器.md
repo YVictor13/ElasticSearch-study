@@ -192,35 +192,34 @@ Elasticsearch 中内置了很多分词器（analyzers）,但是 Elasticsearch �
 
 1. 搭建Springboot 项目
 
-   
+   ![image-20201209103056386](https://raw.githubusercontent.com/YVictor13/ElasticSearch-study/master/image/image-20201209103056386.png)
 
 2. 配置远程词库
 
-   
+   ![image-20201209103858286](https://raw.githubusercontent.com/YVictor13/ElasticSearch-study/master/image/image-20201209103858286.png)
 
-3. 测试结果如下：（远程词库支持热部署，无需重启，但等待时间有点长）
+   ![image-20201209103243643](https://raw.githubusercontent.com/YVictor13/ElasticSearch-study/master/image/image-20201209103243643.png)
+
+3. 测试结果如下：（远程词库支持热部署，等待时间有点长），重启 **Elasticsearch** 如下
+
+   ![image-20201209105343295](https://raw.githubusercontent.com/YVictor13/ElasticSearch-study/master/image/image-20201209105343295.png)
 
 ```
 {
 	"analyzer":"ik_max_word",
-	"text": "我和我的祖国我和我的家乡我和我的爱人我和我的父母"
+	"text": "我在北京等你"
 }
 ```
 
-![image-20201208233856301](https://raw.githubusercontent.com/YVictor13/ElasticSearch-study/master/image/image-20201208233856301.png)
+![image-20201209105535256](https://raw.githubusercontent.com/YVictor13/ElasticSearch-study/master/image/image-20201209105535256.png)
 
 ```
 {
 	"analyzer":"ik_smart",
-	"text": "我和我的祖国"
+	"text": "我在北京等你"
 }
 ```
 
-![image-20201208234611923](https://raw.githubusercontent.com/YVictor13/ElasticSearch-study/master/image/image-20201208234611923.png)
-
-
-
-
-
+![image-20201209105440987](https://raw.githubusercontent.com/YVictor13/ElasticSearch-study/master/image/image-20201209105440987.png)
 
 
