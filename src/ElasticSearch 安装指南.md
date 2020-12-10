@@ -117,15 +117,22 @@ discovery.zen.ping.unicast.hosts: ["127.0.0.1"]
 
 
 ## 4.Kibana安装
-Kibana 是一个 Elastic 公司推出的一个针对 es 的分析以及数据可视化平台，可以搜索、查看存放在 es 中的数据。
-网站： [Kibana 网站](https://www.elastic.co/cn/downloads/kibana)
+**Kibana** 是一个 **Elastic** 公司推出的一个针对 **Elasticsearch** 的分析以及数据可视化平台，可以搜索、查看存放在 **Elasticsearch** 中的数据。
 安装步骤如下：
-- 下载 Kibana：
+
+- 下载 Kibana： [Kibana 网站](https://www.elastic.co/cn/downloads/kibana)
+
 - 解压文件
-- 配置 es 的地址信息（可选，如果 es 是默认地址以及端口，可以不用配置，具体的配置文件是 config/kibana.yml）
-- 执行命令 ./bin/kibana 文件启动 
-- 浏览器 localhost:5601
-- Kibana 安装好之后，首次打开时，可以选择初始化 es 提供的测试数据，也可以不使用。
-![在这里插入图片描述](https://raw.githubusercontent.com/YVictor13/ElasticSearch-study/master/image/20201122215509204.png)
+
+- 配置 es 的地址信息（如果 **Elasticsearch** 是默认设置，则可以不用配置，其配置文件在 **kibana** 的 **config/kibana.yml**）
+
+- 在**kibana** 的**bin**目录下 执行命令 ```./kibana``` 文件启动
+
+- 浏览器 ```localhost:5601```
+
+  ![image-20201209175834964](https://raw.githubusercontent.com/YVictor13/ElasticSearch-study/master/image/image-20201209175834964.png)
+
+- **Kibana** 安装好之后，首次打开时，可以选择初始化 **Elasticsearch** 提供的测试数据，也可以不使用。
+![image-20201209175856911](https://raw.githubusercontent.com/YVictor13/ElasticSearch-study/master/image/image-20201209175856911.png)
 
 [下一篇：ElasticSearch 的配置](https://github.com/YVictor13/ElasticSearch-study/blob/master/src/ElasticSearch%20%E9%85%8D%E7%BD%AE.md)
