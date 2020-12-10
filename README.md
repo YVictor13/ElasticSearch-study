@@ -15,6 +15,8 @@
 - [3-Elasticsearch 核心概念](https://github.com/YVictor13/ElasticSearch-study/blob/master/src/Elasticsearch%20%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md)
 - [4-Elasticsearch 架构设计及说明](https://github.com/YVictor13/ElasticSearch-study/blob/master/src/Elasticsearch%20%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%8F%8A%E8%AF%B4%E6%98%8E.md)
 - [5-Elasticsearch 分词器](https://github.com/YVictor13/ElasticSearch-study/blob/master/src/Elasticsearch%20%20%E5%88%86%E8%AF%8D%E5%99%A8.md)
+- [6-Elasticsearch 索引基础](https://github.com/YVictor13/ElasticSearch-study/blob/master/src/Elasticsearch%20%E7%B4%A2%E5%BC%95%E5%9F%BA%E7%A1%80.md)
+- [7-Elasticsearch 索引实战](https://github.com/YVictor13/ElasticSearch-study/blob/master/src/Elasticsearch%20%E7%B4%A2%E5%BC%95%E5%AE%9E%E6%88%98.md)
 
 
 
